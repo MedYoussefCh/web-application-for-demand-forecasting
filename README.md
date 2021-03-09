@@ -1,9 +1,9 @@
 # web-application-for-demand-forecasting
 
 In this project in wich i worked with [Mehdi Hamdoune](https://github.com/mehdi99hamd), we developed a web application to make commercial forecasts of a company from its history, using deep learning and machine learning algorithms. On our software, we made available to the user five forecasting algorithms while evaluating their accuracy and performance in order to obtain the best forecast's result.
-Front end: Angular, NodeJS. 
-Back-end: Numpy, Pandas, Django, Tensorflow, Keras, Scikit-Learn, Matplotlib, etc.
-Forecasting methods : exponential smoothing (Single, Double, Holt-Winters) - LSTM - ARIMA.
+- Front end: Angular, NodeJS. 
+- Back-end: Numpy, Pandas, Django, Tensorflow, Keras, Scikit-Learn, Matplotlib, etc.
+- Forecasting methods : exponential smoothing (Single, Double, Holt-Winters) - LSTM - ARIMA.
 
 ## Getting Started
 
